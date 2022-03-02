@@ -1,0 +1,9 @@
+{
+	"name": "mdwdops-adf-dev-maxdo",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dcf8f594-d6ff-44ca-8737-fe51c3097d5c",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
